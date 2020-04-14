@@ -1,4 +1,4 @@
-class Sumo < Formula
+class SumoAT150 < Formula
   desc "Simulation of Urban MObility"
   homepage "https://projects.eclipse.org/projects/technology.sumo"
   head "https://github.com/eclipse/sumo.git"
